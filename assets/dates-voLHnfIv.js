@@ -1,0 +1,1 @@
+var e=new Intl.DateTimeFormat(`en-US`,{year:`numeric`,month:`long`,day:`numeric`,timeZone:`UTC`}),t=t=>e.format(new Date(`${t}T00:00:00Z`));export{t};

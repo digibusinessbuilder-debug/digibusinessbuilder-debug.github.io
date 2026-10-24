@@ -1,1 +1,0 @@
-var e=`/assets/gut-heart-axis-BAw695m1.webp`;export{e as t};

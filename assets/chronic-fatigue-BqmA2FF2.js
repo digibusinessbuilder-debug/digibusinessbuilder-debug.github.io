@@ -1,1 +1,0 @@
-var e=`/assets/chronic-fatigue-DXzmQx60.webp`;export{e as t};

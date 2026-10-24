@@ -1,1 +1,0 @@
-var e=`/assets/kidney-support-Boc9oKTd.webp`;export{e as t};

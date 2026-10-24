@@ -1,1 +1,0 @@
-var e=`/assets/pcos-CsokPtYf.webp`;export{e as t};

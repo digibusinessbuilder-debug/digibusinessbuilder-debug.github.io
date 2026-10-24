@@ -1,1 +1,0 @@
-var e=`/assets/mcas-H8eNgzFQ.webp`;export{e as t};

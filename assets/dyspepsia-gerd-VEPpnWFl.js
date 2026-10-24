@@ -1,1 +1,0 @@
-var e=`/assets/dyspepsia-gerd-zR-Wf0xb.webp`;export{e as t};

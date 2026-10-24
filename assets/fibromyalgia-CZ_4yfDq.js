@@ -1,0 +1,1 @@
+var e=`/assets/fibromyalgia-DoCIn0Iv.webp`;export{e as t};

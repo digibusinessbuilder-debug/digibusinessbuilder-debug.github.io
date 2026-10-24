@@ -1,0 +1,1 @@
+var e=`/assets/sibo-sifo-imo-8iEH3DxV.webp`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/ibs-DOePQFPE.webp`;export{e as t};

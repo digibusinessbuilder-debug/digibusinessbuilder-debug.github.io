@@ -1,0 +1,1 @@
+var e=`/assets/brain-nervous-system-BivOeqyp.webp`;export{e as t};

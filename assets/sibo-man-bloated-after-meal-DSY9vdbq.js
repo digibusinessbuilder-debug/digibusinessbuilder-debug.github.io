@@ -1,0 +1,1 @@
+var e=`/assets/sibo-man-bloated-after-meal-BkBlG5c3.webp`;export{e as t};

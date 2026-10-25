@@ -1,1 +1,0 @@
-var e=`/assets/sibo-man-writing-food-journal-CIhZWDS1.webp`;export{e as t};

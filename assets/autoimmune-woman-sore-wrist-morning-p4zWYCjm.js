@@ -1,0 +1,1 @@
+var e=`/assets/autoimmune-woman-sore-wrist-morning-CETAkJh4.webp`;export{e as t};

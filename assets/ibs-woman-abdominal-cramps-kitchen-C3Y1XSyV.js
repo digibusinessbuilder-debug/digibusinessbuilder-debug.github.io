@@ -1,0 +1,1 @@
+var e=`/assets/ibs-woman-abdominal-cramps-kitchen-CDJo9xw3.webp`;export{e as t};

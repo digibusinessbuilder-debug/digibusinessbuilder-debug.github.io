@@ -1,0 +1,1 @@
+var e=`/assets/chronic-fatigue-woman-resting-sofa-xkCbvZ2w.webp`;export{e as t};

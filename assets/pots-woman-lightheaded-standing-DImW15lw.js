@@ -1,0 +1,1 @@
+var e=`/assets/pots-woman-lightheaded-standing-CPObRGn0.webp`;export{e as t};

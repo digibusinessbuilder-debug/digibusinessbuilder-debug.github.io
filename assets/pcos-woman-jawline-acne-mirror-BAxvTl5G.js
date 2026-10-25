@@ -1,0 +1,1 @@
+var e=`/assets/pcos-woman-jawline-acne-mirror-Cdo-tg9M.webp`;export{e as t};

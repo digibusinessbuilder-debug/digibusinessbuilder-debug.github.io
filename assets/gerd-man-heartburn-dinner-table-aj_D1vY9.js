@@ -1,0 +1,1 @@
+var e=`/assets/gerd-man-heartburn-dinner-table-kA-NXVb3.webp`;export{e as t};

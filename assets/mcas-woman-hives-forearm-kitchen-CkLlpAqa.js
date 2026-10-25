@@ -1,0 +1,1 @@
+var e=`/assets/mcas-woman-hives-forearm-kitchen-BzGRR8gM.webp`;export{e as t};

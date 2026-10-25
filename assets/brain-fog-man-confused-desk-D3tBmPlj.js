@@ -1,0 +1,1 @@
+var e=`/assets/brain-fog-man-confused-desk-BViGhn2i.webp`;export{e as t};

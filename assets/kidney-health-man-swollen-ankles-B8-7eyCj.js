@@ -1,0 +1,1 @@
+var e=`/assets/kidney-health-man-swollen-ankles-CWERkHXH.webp`;export{e as t};

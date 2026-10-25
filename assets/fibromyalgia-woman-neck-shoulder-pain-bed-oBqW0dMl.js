@@ -1,0 +1,1 @@
+var e=`/assets/fibromyalgia-woman-neck-shoulder-pain-bed-g_4OpFOn.webp`;export{e as t};

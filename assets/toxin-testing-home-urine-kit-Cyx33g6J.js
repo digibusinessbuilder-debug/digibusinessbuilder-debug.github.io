@@ -1,0 +1,1 @@
+var e=`/assets/toxin-testing-home-urine-kit-D6wfg7x0.webp`;export{e as t};

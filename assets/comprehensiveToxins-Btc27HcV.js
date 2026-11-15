@@ -1,0 +1,1 @@
+var e=`/assets/comprehensiveToxins-D317nyUI.jpg`;export{e as t};

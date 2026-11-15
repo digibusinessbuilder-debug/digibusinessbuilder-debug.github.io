@@ -1,0 +1,1 @@
+var e=`/assets/nuropod-photo-CQ30Ihlu.webp`;export{e as t};
